@@ -13,5 +13,7 @@
 - **Hosting**: GitHub Pages
 
 ## 📌 Quick Start
-git clone https://github.com/yourusername/portfolio.git
+git clone
+https://github.com/Rahab19/PLP-portfolio-Hackathon-1.git
+
 open index.html
