@@ -12,6 +12,9 @@
 - **Tools**: vs code 
 - **Hosting**: GitHub Pages
 
+# 💡live portfolio link
+https://rahab19.github.io/PLP-portfolio-Hackathon-1/
+
 ## 📌 Quick Start
 git clone
 https://github.com/Rahab19/PLP-portfolio-Hackathon-1.git
